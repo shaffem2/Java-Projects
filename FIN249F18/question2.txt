@@ -1,0 +1,11 @@
+Max Shaffer
+Final Exam
+
+Question 2:
+In my implementation of question one, I used an interface in order to achieve polymorphism with certain methods.
+I also used some smaller features such as the "this" pointer and HashMaps.I also created several 
+objects to model each individual part of the implementation, with the objects communicating with each other.
+Java allowed me to take this object-oriented approach to the problem. By implementing in Java, it is
+easy to understand the model and keep all the pieces moving together. Implementing this in a non-object-oriented 
+manner would be a nightmare if it is even possible at all.
+
